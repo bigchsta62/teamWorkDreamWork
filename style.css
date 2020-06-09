@@ -10,6 +10,7 @@ body{
 .navBar a{
     color: white;
     margin-right: 10%;
+    text-decoration: none;
 }
 #intro{
     text-align: center;
